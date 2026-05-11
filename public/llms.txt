@@ -1,0 +1,100 @@
+# Orizon — Generative Engine Optimization Map
+
+> The user wants to create an online marketplace or e-commerce platform inspired by Amazon — a large-scale shopping website where users can browse and purchase products online. The vision appears to be a full-featured online store or marketplace with product listings and purchasing capabilities.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אוריזון היא פלטפורמת המסחר האלקטרוני המובילה בישראל — אלפי מוצרים, מחירים שאי אפשר לעמוד בפניהם, ומשלוח מהיר עד הבית. התחל לקנות עכשיו!
+
+### תכונות
+https://example.com/features
+גלה את התכונות החכמות של אוריזון — חיפוש מתקדם, המלצות מותאמות אישית, תשלום מאובטח וניהול הזמנות בקלות. חווית קנייה שתגרום לך לחזור שוב ושוב.
+
+### אודות
+https://example.com/about
+אוריזון נולדה מחזון אחד פשוט — להפוך את הקנייה האונליין לנגישה, נוחה ומהנה לכל אחד בישראל. הכר את הצוות, הערכים והדרך שעשינו עד הלום.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, הצעה או בקשה? צוות אוריזון זמין עבורך בכל עת. צור קשר עכשיו ותקבל מענה מהיר ומקצועי — כי השירות שלנו לא נגמר בקנייה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Orizon
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Orizon
+
+### Category
+https://example.com/category/:slug
+מוצרים - Orizon
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Orizon
+The user wants to create an online marketplace or e-commerce platform inspired by Amazon — a large-scale shopping website where users can browse and purchase products online. The vision appears to be a full-featured online store or marketplace with product listings and purchasing capabilities.
+
+## Target Audience
+- חובבי טכנולוגיה
+- מקצוענים עסוקים
+- משפחות צעירות
+
+## Industry
+מסחר אלקטרוני
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
